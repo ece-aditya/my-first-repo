@@ -1,2 +1,2 @@
 # my-first-repo
-this is my first repository lets go 
+This is my first repository; let's go 
